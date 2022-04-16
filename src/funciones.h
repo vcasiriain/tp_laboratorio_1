@@ -5,6 +5,10 @@
 #include <math.h>
 #define BITCOIN 4606954.55
 
+/** \brief funcion de menu para mostrar y pedir datos
+ */
+void menu();
+
 /*****VALIDACIONES*****/
 
 /** \brief funcion para pedir kilometros
