@@ -35,8 +35,8 @@ int main(void)
     {
 
         printf("\n||Menu de opciones||\n\n");
-        printf("1. Ingresar kilometros\n");
-        printf("2. Ingresar precio de vuelos\n");
+        printf("1. Ingresar kilometros (km = %.2f)\n",km);
+        printf("2. Ingresar precio de vuelos (Aerolineas = %.2f, Latam = %.2f)\n",precioAA,precioL);
         printf("3. Calcular todos los costos\n");
         printf("4. Informar resultados\n");
         printf("5. Carga forzada de datos\n");
